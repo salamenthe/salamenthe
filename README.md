@@ -1,5 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/95963be1-0cd3-4e7d-a940-609117f663a6.svg)](https://wakatime.com/@95963be1-0cd3-4e7d-a940-609117f663a6)
-
 - 👋 Hi, I’m @salamenthe
 - 👀 I’m interested in web development and embeded systems
 - 🌱 I’m currently learning reactjs and nextjs
